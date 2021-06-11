@@ -1,0 +1,297 @@
+/**********************************************************/
+/* 		      ESTILOS GCO - GFH                   */
+/**********************************************************/
+
+/* ESTILOS GCO-CUERPO (cuerpo.txt) */
+/**********************************************************/
+
+.TablaPrincipal    {    width:   782px; border: 0px;
+	border-radius: 100px;
+
+} 
+.TdCabecera            {    width:   100%;}
+.TdMenu                    {    width: 100px; vertical-align: top;background: #E8E4E5;}
+.TdCuerpo                {    width: 708px; vertical-align: top; height:100% background: #fff;}
+.TdPie                      {    width: 100%;                      }
+.TablaCuerpoTitulo { width:100%; border: 0px solid; background-color: #dbdbdb; border-color: #ffffff;}
+.TdCuerpoTitulo       { text-align: left; 
+	font-weight: bold; 
+	font-size:  10px; 
+	color: #666666; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+.TablaCuerpoContenido { width: 95%; border= 0px; vertical-align: center;} 
+.TdCuerpoContenido       { text-align: center; vertical-align: top;}
+
+/* ESTILOS GCO-CABECERA (cabecera@GERENCIA@.js) */
+/**********************************************************/
+.TablaCabecera      { width: 782px; border: 0px; text-align: left;}
+.tdCabTitulo          { background-color: #ffffff; text-align:left;}
+.tablaCabTitulo    { width:100%; border:0px;}
+.tdcabtit1              { width:210px;}
+.icabtit1                { width:210px; height: 98px; border:0px;}
+.icabtit2                { width:598px; height: 32px;}
+.tdcabtit2              { background-color: #005193;}
+.tdcabtit3              { background-image: url(/Portal/images/pag_tipo/top_interior03.gif);}
+.tablaCabMenu        { width:100%; border:0px;}
+.tablaCabMenu2      { width:70%; border:0px;}
+.tdcabmen1              { background-color: #FFFFFF;}
+.tdcabmen2              { background-color: #dbdbdb;}
+.tdcabmen3              { background-color: #FFFFFF;}
+.tdcabmen4	          { width:15px;}
+.tdcabmen5	          { text-align:left;}
+.icabmen1                { width:15px; height: 0px;}
+.icabmen2                { width:15px; height: 0px;}
+.icabmen3	          { width:15px; height: 30px;}
+
+/* ESTILOS GCO-PIE (pie@GERENCIA@.js) */
+/**********************************************************/
+.TablaPie          { width:782px; border:0px; text-align: center;}
+.tdpie                { vertical-align: top;}
+.txtpie              { text-align:center; font-family: "Arial", "Verdana", "Tahoma", "Geneva"; font-size:11px; color: #666666; text-decoration: none;}
+
+/* ESTILOS TODAS LAS PLANTILLAS (plantilla_@_#) */ 
+/**********************************************************/
+.TablaPlaTitulo1   { width: 100%; border:0px; text-aling:center;}
+.tdplatitulo1         { width:59px;}
+.iplatitulo1           { width: 59px; height: 58px;}
+.iplatitulo2           { width: 5px; height: 36px;}
+.iplatitulo3           { width: 748px; height: 22px;}
+.TablaPlaTitulo2   { width:95%; border:0px; text-align:center;}
+
+
+.txtTitulo{  
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:18px; 
+	font-weight: bold;
+	color: #002852;
+	TEXT-DECORATION: none 	}
+/* txtTabla*/
+.txtComentario{ 
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:11px; 
+	color: #000000; 
+	TEXT-DECORATION: none;}
+
+/* ESTILOS TODOS LOS ELEMENTOS (elemento_@_#) */ 
+/**********************************************************/
+/*tabla1*/
+.tablaMarcoImagen{
+	border: 10px;
+	border-width: 1px;
+    border-color: #7E98B1;
+	border-top-style : solid;
+	border-right-style : solid;
+	border-bottom-style : solid;
+	border-left-style : solid;
+	font-size:11px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;}
+.tablaMarcoImagen TD{
+	text-align: center;
+	border-width: 1px;
+        border-color: #ffffff;
+	border-bottom-style : solid;
+	border-left-style : solid;
+	border-top-style : solid;
+	border-right-style : solid;
+	background-color:#FFFFFF;
+        font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#666666;
+        background: #efefef;}
+.tablaMarcoImagen TH{
+	border-width: 1px;
+        border-color:#7E98B1;
+	border-bottom-style : solid;
+	border-left-style : solid;
+	border-top-style : solid;	
+	border-right-style : solid;
+	font-weight: bold;
+	color:#FFffff;
+	background-color:#deebe1;
+	font-size:11px;}
+
+.tablaElemento2     { width: 95%; border: 0px; text-align: center;}
+.tablaElemento2 TD  { text-align: center;}
+.tablaElemento21    { width: 100%; border: 0px; text-align: center;}
+.tablaElemento21td1 { width: 60%; text-align:left; vertical-align: top;}
+.tablaElemento21td2 { vertical-align: top; width:300px; height:200px;}
+.tdElemento41       { width:700px; text-align:left; height:30px;}
+.tdElemento411      { width:530px; text-align:left; height:30px;}
+.tdElemento42       { text-align:center;}
+
+.iele1        { width:100%; height:100%; border:0px;}
+.iele2        { border:0px;}
+.iele3        { width:750px; height: 150px; border:0px;}
+.iele4        { width:750px; height: 150px; border:0px;}
+.iele5	      { width:14px; height: 14px; border:0px;}
+.iele6        { width:150px; height:80px; border:0px;}
+.iele7        { width:7px; height:7px; border:0px;}
+.iele8        { width:40px; height:30px; border:0px;}
+.iele9	      { width:20px; height: 20px; border:0px;}
+
+/*opcPlomo*/
+.txtTexto1     { 
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: normal;
+	font-size:11px;	 
+	color: #666666;
+	TEXT-DECORATION: none;}
+.txtTexto1:link{
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: normal;
+	font-size:11px;	 
+	color: #666666;
+	TEXT-DECORATION: none;}
+.txtTexto1:visited { 
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-weight: normal;
+	font-size:11px; 
+	color: #666666;
+	TEXT-DECORATION: none;}
+.txtTexto1:hover {
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:11px; 
+	color: #B10000;
+	TEXT-DECORATION: underline;}
+/*opcAzul*/
+.txtDescarga{
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: bold;
+	font-size:12px;	 
+	color: #003C7B;
+	TEXT-DECORATION: none;}
+.txtDescarga:link{
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: bold;
+	font-size:12px;	 
+	color: #003C7B;
+	TEXT-DECORATION: none;}
+.txtDescarga:visited { 
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-weight: bold;
+	color: #003C7B;	
+	font-size:12px;
+	TEXT-DECORATION: none;}
+.txtDescarga:hover {
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:12px; 
+	color: #BE0000;
+	TEXT-DECORATION: underline;}
+
+.txtTituloRojo2{
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:16px; 
+	font-weight: bold;
+	color: #B10000;
+	TEXT-DECORATION: none;}
+
+.txtTexto2     {
+	text-align: justify;
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:11px; 
+	color: #000000;
+	TEXT-DECORATION: none;}
+
+
+/******************************************************************************************/
+/*                                 Estilos HOME GERENCIAS                                 */
+/******************************************************************************************/
+
+.txtAzul{
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: bold;
+	font-size:12px;	 
+	color: #003C7B;
+	TEXT-DECORATION: none}
+.txtAzul:link{
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: bold;
+	font-size:12px;	 
+	color: #003C7B;
+	TEXT-DECORATION: none}
+.txtAzul:visited { 
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-weight: bold;
+	color: #003C7B;	
+	font-size:12px;
+	TEXT-DECORATION: none}
+.txtAzul:hover {
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:12px; 
+	color: #BE0000;
+	TEXT-DECORATION: underline}
+.txtTexto{
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:11px; 
+	color: #000000;
+	TEXT-DECORATION: none}
+.txtSubMenu:link{
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: normal;
+	font-size:11px;	 
+	color: #003469;
+	TEXT-DECORATION: none}
+.txtSubMenu:visited { 
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-weight: normal;
+	font-size:11px; 
+	color: #003469;
+	TEXT-DECORATION: none}
+.txtSubMenu:hover {
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:11px; 
+	color: #cc0000;
+	TEXT-DECORATION: underline }
+.txtSubMenuH{
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: bold;
+	font-size:12px;	 
+	color: #676767;
+	TEXT-DECORATION: none}
+.txtSubMenuH:link{
+	font-family: "Arial", "Verdana", "Tahoma",  "Geneva"; 
+	font-weight: bold;
+	font-size:12px;	 
+	color: #676767;
+	TEXT-DECORATION: none}
+.txtSubMenuH:visited { 
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-weight: bold;
+	color: #676767;	
+	font-size:12px;
+	TEXT-DECORATION: none}
+.txtSubMenuH:hover {
+	font-family: "Arial", "Verdana", "Tahoma", "Geneva"; 
+	font-size:12px; 
+	color: #BE0000;
+	TEXT-DECORATION: underline }
+
+
+/* ESTILOS GCO-Pagina de Reporte de la Privatizacion   */
+/**********************************************************/
+.TxtDetalle
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 11px;
+	text-align: justify;
+}
+.TxtDetalle A
+{
+    FONT: bold 11px/11px arial;
+    COLOR: #9F4700;
+    TEXT-DECORATION: none;
+	text-align: justify;
+}
+.TxtDetalle A:hover
+{
+    TEXT-DECORATION: underline;
+}
+
+.Estilo1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.Estilo3 {font-size: 10}

@@ -1,0 +1,81 @@
+
+
+
+#agrupar {
+width: 850px;
+margin: 15px auto;
+text-align: left;
+order: 3px blue dashed;
+}
+
+#cabecera {
+background: white;
+border: 1px solid white;
+padding: -10px; /*tamaño del fondo*/
+background:;
+text-align: center;
+/*opacity: 0.5;*//*opacidad*/
+width: 91.8%;/*tamaño de hancho de fondo*/
+float: center;/*marco*/
+margin-top: -15px;/*mover hacia ariiba o abajo el marco de fondo*/
+
+
+}
+#menu {
+background: #edf7f8;/*color de fondo del menu*/
+padding: 5px 15px;
+border-radius: 0px;/*borde redondeado del fondo*/
+opacity: 0.5;
+padding: 10px; /*largo de fondo*/
+width: 89.7%;/*tamaño de hancho de fondo*/
+
+}
+
+
+#menu ul li {
+	
+	list-style: : none;
+	padding: 2px 40px;/*ancho y largo de cada menu*/
+	margin-left:4.5px; /*espacio entre cada menu*/
+	margin-top:-8px; /*mueve asia arriba o abajo la barra*/
+
+	
+}
+
+
+#menu li {
+display: inline-block;
+box-shadow: 6px 6px 0px #035c97ce;/*color de sobra de los menus*/
+border-radius: 15px;
+/*list-style: none;*/
+padding: 10px;/*tamaño de cada cuadro*/
+font: bold 14px verdana, sans-serif; /*tamaño de letra y tipo*/
+/*box-shadow: 6px 6px 6px black inset;*/
+
+}
+
+
+#menu a {
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+}
+
+#menu a {
+	text-decoration: none;
+}
+
+#seccion {
+background: #33FFBB;
+float: left;
+width: 800px;
+margin: 20px;
+}
+
+#columna {
+float: left;
+width: 400px;
+margin: 20px 0px;
+padding: 20px;
+background: #33FFBB;
+}
+
